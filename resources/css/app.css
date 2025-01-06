@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.m-plus-rounded-800 {
+    font-family: "M PLUS Rounded 1c", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+.jost-200 {
+font-family: "Jost", serif;
+font-optical-sizing: auto;
+font-weight: 200;
+font-style: normal;
+}
+
+.jost-300 {
+font-family: "Jost", serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+}
