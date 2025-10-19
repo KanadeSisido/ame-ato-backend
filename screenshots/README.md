@@ -1,0 +1,2 @@
+![https://raw.githubusercontent.com/KanadeSisido/ame-ato-backend/refs/heads/master/screenshots/ameato-0.webp](https://raw.githubusercontent.com/KanadeSisido/ame-ato-backend/refs/heads/master/screenshots/ameato-0.webp)
+![https://raw.githubusercontent.com/KanadeSisido/ame-ato-backend/refs/heads/master/screenshots/ameato-1.webp](https://raw.githubusercontent.com/KanadeSisido/ame-ato-backend/refs/heads/master/screenshots/ameato-1.webp)
